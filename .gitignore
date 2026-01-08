@@ -1,0 +1,9 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+.env
+test_kmce.py
+verify_algorithm.py
+# folders
+mkm_images/
+kmce_images/
